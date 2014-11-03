@@ -19,22 +19,21 @@ body{
 header{
     width: 100%;
     padding: 0;
-    background-color: #b3ced5;
-	border-bottom: 1px solid #bbb8bf; /*changes color of border under project name*/
+	border-bottom: 1px solid #f1e6c6; /*changes color of border under project name*/
 }
 
 h1{
     font-family: Montserrat, Helvetica, sans-serif;
 	margin-top: 0;
 	padding: 10px 0 0 1%;
-    color: #9e7b68;
+    color: #f0b684;
 }
 
 h2{
     font-family: Montserrat, Helvetica, sans-serif;
     padding: 10px 0 0 1%;
 	margin-top: 20px;
-    color: #f0b684;
+    color: #b3ced5;
 }
 
 
